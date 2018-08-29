@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { setname: x264,                     name: [libx264,lib264-142,libx264-142] }

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=29 expandtab softtabstop=29
 
 - { name: aclock, family: freebsd, setname: gnustep-aclock } # gnustep; may be not ambiguity (yet), but too generic name for sure

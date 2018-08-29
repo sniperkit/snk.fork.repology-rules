@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=29 expandtab softtabstop=29
 
 - { name: ocp, wwwpart: maxsatula, setname: ocp-oracle-copy-tool }

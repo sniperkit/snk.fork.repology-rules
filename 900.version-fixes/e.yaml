@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { name: easy-rsa,                    ver: "3.0.5",                 ruleset: ravenports,  incorrect: true }

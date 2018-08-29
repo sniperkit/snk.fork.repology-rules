@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { name: yad,                         ver: "0.40.2",                family: pclinuxos,    incorrect: true }

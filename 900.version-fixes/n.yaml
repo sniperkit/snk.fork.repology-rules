@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { name: nautilus,                    verpat: "[0-9]+\\.[0-9]*[13579]\\..*",              devel: true }

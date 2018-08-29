@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { namepat: "(?:lib)?qt[0-9]*-?(?:qt)?(multimedia|opengl|network|linguist|linguisttools|gui|svg|xml|xmlpatterns)[0-9]*", verpat: "4\\..*", setname: "qt4-$1" }

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { setname: e2fsprogs,                name: [e2fsprogs-libblkid,e2fsprogs-libs,e2fsprogs-libss,e2fsprogs-libuuid,e2fsprogs1.41] }

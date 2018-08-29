@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { namepat: "perl:(.*)",              family: [ gentoo, mageia, rosa, macports, pclinuxos, openmandriva ], ignore: true } # perl module name manging

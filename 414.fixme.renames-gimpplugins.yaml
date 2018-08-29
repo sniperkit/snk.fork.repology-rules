@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 - { setname: "gimp:lqr-plugin",        name: [gimp-liquid-rescale,gimp-lqr,gimp-lqr-plugin,gimp-plugin-lqr,lqr-plugin] }
 - { setname: "gimp:lensfun",           name: gimplensfun }
 - { setname: "gimp:focusblur",         name: focusblur }

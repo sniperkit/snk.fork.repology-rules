@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { name: v,                           verpat: "[0-9]+",                                   ignore: true } # aur; correct versions is 1.1

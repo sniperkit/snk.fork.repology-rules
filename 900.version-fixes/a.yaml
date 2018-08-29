@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { name: a52dec,                      ver: "0.7.5",                 family: [openbsd,opensuse,pld], ignore: true }

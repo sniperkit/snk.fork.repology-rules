@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { name: [0ad,0ad-data,"0 a.d."],     verpat: "(?:0\\.0\\.|a|[Aa]lpha ?)([0-9]+)(?:[-_]alpha| .+)?", setver: "alpha $1" }

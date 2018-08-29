@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { setname: i3,                       name: [i3-kde,i3-lazy,i3-wm-iconpatch], addflavor: true }

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { name: s25rttr,                     verpat: "20[0-9]{6}",                               devel: true } # official nightlies

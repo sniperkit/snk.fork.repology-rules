@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=20 expandtab softtabstop=20
 
 - { remove: true,   name: alias-font,   family: freebsd }

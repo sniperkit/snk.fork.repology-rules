@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { name: i7z,                         verpat: "93.*",               family: [ gentoo ],   ignore: true } # Snapshot version, based on svn r93

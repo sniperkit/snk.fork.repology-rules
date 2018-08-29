@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { name: handbrake,                   verpat: "[0-9]{4}.*",                               ignore: true } # trisquel

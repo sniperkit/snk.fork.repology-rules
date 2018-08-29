@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=29 expandtab softtabstop=29
 
 - { name: kcc, wwwpart: ciromattia, setname: kcc-kindle-comic-converter }

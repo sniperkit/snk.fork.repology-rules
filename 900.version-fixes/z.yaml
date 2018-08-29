@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { name: z,                           ver: "1.11",                                        ignore: true, disposable: true } # https://github.com/rupa/z/issues/205

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # vim: tabstop=39 expandtab softtabstop=39
 
 - { setname: "python:absl-py",         name: "python:absl", ruleset: macports } # there's python:absl in pypi which is different package
